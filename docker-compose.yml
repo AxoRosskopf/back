@@ -1,0 +1,29 @@
+version: '3.8'
+services:
+  postgres:
+    image: postgres:latest
+    container_name: rzkpf_db
+    restart: always
+    environment:
+      POSTGRES_USER: axo-admin
+      POSTGRES_PASSWORD: "@inventario25"
+      POSTGRES_DB: inventario
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  back:
+    build:
+      context: .
+      dockerfile: back/Dockerfile
+    image: ${DOCKER_REGISTRY-}back
+    depends_on:
+      - postgres
+    environment:
+      - ConnectionStrings__DefaultConnection=Host=postgres;Port=5432;Database=inventario;Username=axo-admin;Password=@inventario25
+    ports:
+      - "5000:8080" 
+
+volumes:
+  postgres_data:

@@ -1,0 +1,15 @@
+D:\Projects\Code\Inventario\back\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+D:\Projects\Code\Inventario\back\Interfaces\bin\Debug\net8.0\Interfaces.dll
+D:\Projects\Code\Inventario\back\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+D:\Projects\Code\Inventario\back\Interfaces\bin\Debug\net8.0\DTOs.dll
+D:\Projects\Code\Inventario\back\Interfaces\bin\Debug\net8.0\DTOs.pdb
+D:\Projects\Code\Inventario\back\Interfaces\obj\Debug\net8.0\Interfaces.csproj.AssemblyReference.cache
+D:\Projects\Code\Inventario\back\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Code\Inventario\back\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+D:\Projects\Code\Inventario\back\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+D:\Projects\Code\Inventario\back\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\Projects\Code\Inventario\back\Interfaces\obj\Debug\net8.0\Interfaces.csproj.Up2Date
+D:\Projects\Code\Inventario\back\Interfaces\obj\Debug\net8.0\Interfaces.dll
+D:\Projects\Code\Inventario\back\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+D:\Projects\Code\Inventario\back\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+D:\Projects\Code\Inventario\back\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll

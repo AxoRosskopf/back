@@ -1,0 +1,17 @@
+D:\Projects\Code\Inventario\back\Infrastructure.Services\bin\Debug\net8.0\Infrastructure.Services.deps.json
+D:\Projects\Code\Inventario\back\Infrastructure.Services\bin\Debug\net8.0\Infrastructure.Services.dll
+D:\Projects\Code\Inventario\back\Infrastructure.Services\bin\Debug\net8.0\Infrastructure.Services.pdb
+D:\Projects\Code\Inventario\back\Infrastructure.Services\bin\Debug\net8.0\Application.Interfaces.dll
+D:\Projects\Code\Inventario\back\Infrastructure.Services\bin\Debug\net8.0\DTOs.dll
+D:\Projects\Code\Inventario\back\Infrastructure.Services\bin\Debug\net8.0\Application.Interfaces.pdb
+D:\Projects\Code\Inventario\back\Infrastructure.Services\bin\Debug\net8.0\DTOs.pdb
+D:\Projects\Code\Inventario\back\Infrastructure.Services\obj\Debug\net8.0\Infrastructure.Services.csproj.AssemblyReference.cache
+D:\Projects\Code\Inventario\back\Infrastructure.Services\obj\Debug\net8.0\Infrastructure.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Code\Inventario\back\Infrastructure.Services\obj\Debug\net8.0\Infrastructure.Services.AssemblyInfoInputs.cache
+D:\Projects\Code\Inventario\back\Infrastructure.Services\obj\Debug\net8.0\Infrastructure.Services.AssemblyInfo.cs
+D:\Projects\Code\Inventario\back\Infrastructure.Services\obj\Debug\net8.0\Infrastructure.Services.csproj.CoreCompileInputs.cache
+D:\Projects\Code\Inventario\back\Infrastructure.Services\obj\Debug\net8.0\Infrastr.7D5F20B0.Up2Date
+D:\Projects\Code\Inventario\back\Infrastructure.Services\obj\Debug\net8.0\Infrastructure.Services.dll
+D:\Projects\Code\Inventario\back\Infrastructure.Services\obj\Debug\net8.0\refint\Infrastructure.Services.dll
+D:\Projects\Code\Inventario\back\Infrastructure.Services\obj\Debug\net8.0\Infrastructure.Services.pdb
+D:\Projects\Code\Inventario\back\Infrastructure.Services\obj\Debug\net8.0\ref\Infrastructure.Services.dll

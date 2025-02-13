@@ -1,0 +1,17 @@
+D:\Projects\Code\Inventario\back\Mappers\bin\Debug\net8.0\Mappers.deps.json
+D:\Projects\Code\Inventario\back\Mappers\bin\Debug\net8.0\Mappers.dll
+D:\Projects\Code\Inventario\back\Mappers\bin\Debug\net8.0\Mappers.pdb
+D:\Projects\Code\Inventario\back\Mappers\bin\Debug\net8.0\DTOs.dll
+D:\Projects\Code\Inventario\back\Mappers\bin\Debug\net8.0\Entities.dll
+D:\Projects\Code\Inventario\back\Mappers\bin\Debug\net8.0\DTOs.pdb
+D:\Projects\Code\Inventario\back\Mappers\bin\Debug\net8.0\Entities.pdb
+D:\Projects\Code\Inventario\back\Mappers\obj\Debug\net8.0\Mappers.csproj.AssemblyReference.cache
+D:\Projects\Code\Inventario\back\Mappers\obj\Debug\net8.0\Mappers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Code\Inventario\back\Mappers\obj\Debug\net8.0\Mappers.AssemblyInfoInputs.cache
+D:\Projects\Code\Inventario\back\Mappers\obj\Debug\net8.0\Mappers.AssemblyInfo.cs
+D:\Projects\Code\Inventario\back\Mappers\obj\Debug\net8.0\Mappers.csproj.CoreCompileInputs.cache
+D:\Projects\Code\Inventario\back\Mappers\obj\Debug\net8.0\Mappers.csproj.Up2Date
+D:\Projects\Code\Inventario\back\Mappers\obj\Debug\net8.0\Mappers.dll
+D:\Projects\Code\Inventario\back\Mappers\obj\Debug\net8.0\refint\Mappers.dll
+D:\Projects\Code\Inventario\back\Mappers\obj\Debug\net8.0\Mappers.pdb
+D:\Projects\Code\Inventario\back\Mappers\obj\Debug\net8.0\ref\Mappers.dll
