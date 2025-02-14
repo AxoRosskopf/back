@@ -14,8 +14,8 @@ services:
 
   back:
     build: 
-      context: ./back
-      dockerfile: Dockerfile
+      context: .
+      dockerfile: back/Dockerfile
     image: ${DOCKER_REGISTRY-}back
     depends_on:
       - postgres
