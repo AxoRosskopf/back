@@ -14,7 +14,7 @@ services:
       - postgres_data:/var/lib/postgresql/data
 
   back:
-    build:
+    build: 
       context: .
       dockerfile: back/Dockerfile
     image: ${DOCKER_REGISTRY-}back
@@ -22,6 +22,7 @@ services:
       - postgres
     environment:
       - ConnectionStrings__DefaultConnection=Host=postgres;Port=5432;Database=inventario;Username=axo-admin;Password=@inventario25
+      - ASPNETCORE_ENVIRONMENT=http://0.0.0.0:8080
     ports:
       - "5000:8080"
   nginx:

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Projects\\Code\\Inventario\\back\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFCCA9F1-E9D5-4F63-B626-270CFF32EF6E}|NewFolder1{CFCCA9F1-E9D5-4F63-B626-270CFF32EF6E}|D:\\Projects\\Code\\Inventario\\back\\nginx.conf||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{CFCCA9F1-E9D5-4F63-B626-270CFF32EF6E}|NewFolder1{CFCCA9F1-E9D5-4F63-B626-270CFF32EF6E}|solutionrelative:nginx.conf||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{61237A54-8172-4ABF-92ED-E96427D7DDCE}|back\\back.csproj|d:\\projects\\code\\inventario\\back\\back\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{61237A54-8172-4ABF-92ED-E96427D7DDCE}|back\\back.csproj|solutionrelative:back\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\projects\\code\\inventario\\back\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\projects\\code\\inventario\\back\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCCA9F1-E9D5-4F63-B626-270CFF32EF6E}|NewFolder1{CFCCA9F1-E9D5-4F63-B626-270CFF32EF6E}|D:\\Projects\\Code\\Inventario\\back\\nginx.conf||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CFCCA9F1-E9D5-4F63-B626-270CFF32EF6E}|NewFolder1{CFCCA9F1-E9D5-4F63-B626-270CFF32EF6E}|solutionrelative:nginx.conf||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\projects\\code\\inventario\\back\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -26,8 +30,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 241,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\back\\Dockerfile",
+              "RelativeDocumentMoniker": "back\\Dockerfile",
+              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\back\\Dockerfile",
+              "RelativeToolTip": "back\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-13T23:32:37.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -43,12 +64,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "nginx.conf",
               "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\nginx.conf",
               "RelativeDocumentMoniker": "nginx.conf",
-              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\nginx.conf*",
-              "RelativeToolTip": "nginx.conf*",
+              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\nginx.conf",
+              "RelativeToolTip": "nginx.conf",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-02-13T20:24:50.842Z",
@@ -56,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": ".dockerignore",
               "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\.dockerignore",
               "RelativeDocumentMoniker": ".dockerignore",
@@ -75,7 +96,7 @@
               "RelativeDocumentMoniker": "docker-compose.yml",
               "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\docker-compose.yml",
               "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-02-13T20:12:54.128Z",
               "EditorCaption": ""
