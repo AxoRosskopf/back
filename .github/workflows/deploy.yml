@@ -8,7 +8,11 @@ on:
 jobs:
     Build_and_Deploy:
         runs-on: ubuntu-latest
-        environment: ${{ github.event.inputs.environment }}
+        environment: EC2
+        permissions:
+            actions: write
+            contents: read
+            deployments: write
 
         steps:
             - name: Checkout code
