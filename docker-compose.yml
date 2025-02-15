@@ -20,6 +20,7 @@ services:
     depends_on:
       - postgres
     environment:
+      - APPDATA=/tmp
       - ConnectionStrings__DefaultConnection=Host=postgres;Port=5432;Database=inventario;Username=axo-admin;Password=@inventario25
       - ASPNETCORE_ENVIRONMENT=Production
       - ASPNETCORE_URLS=http://+:8080
