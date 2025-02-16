@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "D:\\Projects\\Code\\Inventario\\back\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61237A54-8172-4ABF-92ED-E96427D7DDCE}|back\\back.csproj|d:\\projects\\code\\inventario\\back\\back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61237A54-8172-4ABF-92ED-E96427D7DDCE}|back\\back.csproj|solutionrelative:back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11178342-EB0D-4069-A677-863D8AE70C1F}|Persistence\\Persistence.csproj|d:\\projects\\code\\inventario\\back\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11178342-EB0D-4069-A677-863D8AE70C1F}|Persistence\\Persistence.csproj|solutionrelative:persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\projects\\code\\inventario\\back\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{4B920916-8112-4F6E-8CBE-B001D4D40628}|Infrastructure.Services\\Infrastructure.Services.csproj|d:\\projects\\code\\inventario\\back\\infrastructure.services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B920916-8112-4F6E-8CBE-B001D4D40628}|Infrastructure.Services\\Infrastructure.Services.csproj|solutionrelative:infrastructure.services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61237A54-8172-4ABF-92ED-E96427D7DDCE}|back\\back.csproj|d:\\projects\\code\\inventario\\back\\back\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{61237A54-8172-4ABF-92ED-E96427D7DDCE}|back\\back.csproj|solutionrelative:back\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{2A971888-243A-47B1-A3C8-C0A745BEFDF7}|Application.Interfaces\\Application.Interfaces.csproj|d:\\projects\\code\\inventario\\back\\application.interfaces\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A971888-243A-47B1-A3C8-C0A745BEFDF7}|Application.Interfaces\\Application.Interfaces.csproj|solutionrelative:application.interfaces\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFCCA9F1-E9D5-4F63-B626-270CFF32EF6E}|nginx{CFCCA9F1-E9D5-4F63-B626-270CFF32EF6E}|D:\\Projects\\Code\\Inventario\\back\\nginx.conf||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{CFCCA9F1-E9D5-4F63-B626-270CFF32EF6E}|nginx{CFCCA9F1-E9D5-4F63-B626-270CFF32EF6E}|solutionrelative:nginx.conf||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{81082F83-2879-4145-A170-C97833365880}|Repositories\\Repositories.csproj|d:\\projects\\code\\inventario\\back\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81082F83-2879-4145-A170-C97833365880}|Repositories\\Repositories.csproj|solutionrelative:repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61237A54-8172-4ABF-92ED-E96427D7DDCE}|back\\back.csproj|d:\\projects\\code\\inventario\\back\\back\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61237A54-8172-4ABF-92ED-E96427D7DDCE}|back\\back.csproj|solutionrelative:back\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81082F83-2879-4145-A170-C97833365880}|Repositories\\Repositories.csproj|d:\\projects\\code\\inventario\\back\\repositories\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81082F83-2879-4145-A170-C97833365880}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\projects\\code\\inventario\\back\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\projects\\code\\inventario\\back\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{C47C02AB-BC7A-420C-BAB8-424D81AA5A63}|Exceptions\\Exceptions.csproj|d:\\projects\\code\\inventario\\back\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47C02AB-BC7A-420C-BAB8-424D81AA5A63}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,90 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\back\\Program.cs",
-              "RelativeDocumentMoniker": "back\\Program.cs",
-              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\back\\Program.cs",
-              "RelativeToolTip": "back\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\AppDbContext.cs",
+              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowB0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T02:08:51.316Z",
+              "WhenOpened": "2025-02-16T22:54:13.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ItemController.cs",
-              "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\back\\Controllers\\ItemController.cs",
-              "RelativeDocumentMoniker": "back\\Controllers\\ItemController.cs",
-              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\back\\Controllers\\ItemController.cs",
-              "RelativeToolTip": "back\\Controllers\\ItemController.cs",
+              "DocumentIndex": 1,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\Infrastructure.Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Services\\DatabaseService.cs",
+              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\Infrastructure.Services\\DatabaseService.cs",
+              "RelativeToolTip": "Infrastructure.Services\\DatabaseService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T01:09:46.101Z",
+              "WhenOpened": "2025-02-16T22:54:06.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\back\\Dockerfile",
-              "RelativeDocumentMoniker": "back\\Dockerfile",
-              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\back\\Dockerfile",
-              "RelativeToolTip": "back\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-13T23:32:37.154Z",
+              "Title": "IDatabaseService.cs",
+              "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\Application.Interfaces\\IDatabaseService.cs",
+              "RelativeDocumentMoniker": "Application.Interfaces\\IDatabaseService.cs",
+              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\Application.Interfaces\\IDatabaseService.cs",
+              "RelativeToolTip": "Application.Interfaces\\IDatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:54:00.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\Repositories\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ItemRepository.cs",
+              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\Repositories\\ItemRepository.cs",
+              "RelativeToolTip": "Repositories\\ItemRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:53:48.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IItemRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\Repositories\\IItemRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IItemRepository.cs",
+              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\Repositories\\IItemRepository.cs",
+              "RelativeToolTip": "Repositories\\IItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:53:46.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "docker-compose.dcproj",
-              "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\docker-compose.dcproj",
-              "RelativeDocumentMoniker": "docker-compose.dcproj",
-              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\docker-compose.dcproj",
-              "RelativeToolTip": "docker-compose.dcproj",
+              "Title": "AppException.cs",
+              "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\Exceptions\\AppException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\AppException.cs",
+              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\Exceptions\\AppException.cs",
+              "RelativeToolTip": "Exceptions\\AppException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-13T20:58:17.798Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "nginx.conf",
-              "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\nginx.conf",
-              "RelativeDocumentMoniker": "nginx.conf",
-              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\nginx.conf",
-              "RelativeToolTip": "nginx.conf",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-13T20:24:50.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": ".dockerignore",
-              "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\.dockerignore",
-              "RelativeDocumentMoniker": ".dockerignore",
-              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\.dockerignore",
-              "RelativeToolTip": ".dockerignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-13T20:12:55.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-02-13T20:12:54.128Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:53:37.32Z",
               "EditorCaption": ""
             }
           ]

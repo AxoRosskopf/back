@@ -36,6 +36,15 @@ namespace back.Controllers
 
         // POST: api/item
         [HttpPost]
+        /* 
+         * type Item = {
+            id: string;
+            name: string;
+            description: string;
+            stock: number;
+            timestamp: Date;
+           }
+         */
         public async Task<IActionResult> CreateItem([FromBody] Item item)
         {
             if (item == null)

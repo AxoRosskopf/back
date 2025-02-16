@@ -27,6 +27,10 @@ namespace Persistence
                 .IsRequired();
 
             modelBuilder.Entity<Item>()
+                .Property(i => i.Stock)
+                .IsRequired();
+
+            modelBuilder.Entity<Item>()
                 .Property(i => i.Image)
                 .IsRequired();
 

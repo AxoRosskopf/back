@@ -24,6 +24,7 @@ namespace Repositories
         }
         public async Task<Item> CreateItemAsync(Item item)
         {
+            Console.WriteLine(item);
             _dbContext.Items.Add(item);
             await _dbContext.SaveChangesAsync();
             return item;

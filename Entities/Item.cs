@@ -7,20 +7,24 @@
         public string Description { get; set; }
         public string Image { get; set; }
         public string Status { get; set; }
+        public int Stock { get; set; }
         public DateTime CreatedAt { get; set; }
         public DateTime UpdatedAt { get; set; }
         public Item() { }
         public Item (
+            Guid id,
             string name, 
             string description,
-            string image
+            string image,
+            int stock
             ) 
         {
-            Id = Guid.NewGuid();
+            Id = id;
             Name = name;
             Description = description;
             Image = image;
             Status = "active";
+            Stock = stock;
             CreatedAt = DateTime.Now;
             UpdatedAt = DateTime.Now;
 

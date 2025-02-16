@@ -14,6 +14,7 @@ namespace Mappers
                 Description = item.Description,
                 Image = item.Image,
                 Status = item.Status,
+                Stock = item.Stock,
                 CreatedAt = item.CreatedAt,
                 UpdatedAt = item.UpdatedAt
             };
@@ -29,6 +30,7 @@ namespace Mappers
                 Description = itemDTO.Description,
                 Image = itemDTO.Image,
                 Status = itemDTO.Status,
+                Stock = itemDTO.Stock,
                 CreatedAt = itemDTO.CreatedAt,
                 UpdatedAt = itemDTO.UpdatedAt,
             };
