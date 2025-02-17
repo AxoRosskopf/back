@@ -9,3 +9,4 @@ D:\Projects\Code\Inventario\back\Entities\obj\Debug\net8.0\Entities.dll
 D:\Projects\Code\Inventario\back\Entities\obj\Debug\net8.0\refint\Entities.dll
 D:\Projects\Code\Inventario\back\Entities\obj\Debug\net8.0\Entities.pdb
 D:\Projects\Code\Inventario\back\Entities\obj\Debug\net8.0\ref\Entities.dll
+D:\Projects\Code\Inventario\back\Entities\obj\Debug\net8.0\Entities.sourcelink.json

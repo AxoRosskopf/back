@@ -15,3 +15,4 @@ D:\Projects\Code\Inventario\back\Persistence\obj\Debug\net8.0\refint\Persistence
 D:\Projects\Code\Inventario\back\Persistence\obj\Debug\net8.0\Persistence.pdb
 D:\Projects\Code\Inventario\back\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
 D:\Projects\Code\Inventario\back\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+D:\Projects\Code\Inventario\back\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json

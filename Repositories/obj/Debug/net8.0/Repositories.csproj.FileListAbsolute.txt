@@ -17,3 +17,4 @@ D:\Projects\Code\Inventario\back\Repositories\bin\Debug\net8.0\Repositories.runt
 D:\Projects\Code\Inventario\back\Repositories\bin\Debug\net8.0\Persistence.dll
 D:\Projects\Code\Inventario\back\Repositories\bin\Debug\net8.0\Persistence.pdb
 D:\Projects\Code\Inventario\back\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+D:\Projects\Code\Inventario\back\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json

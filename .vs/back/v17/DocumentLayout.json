@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Projects\\Code\\Inventario\\back\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{61237A54-8172-4ABF-92ED-E96427D7DDCE}|back\\back.csproj|d:\\projects\\code\\inventario\\back\\back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61237A54-8172-4ABF-92ED-E96427D7DDCE}|back\\back.csproj|solutionrelative:back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47C02AB-BC7A-420C-BAB8-424D81AA5A63}|Exceptions\\Exceptions.csproj|d:\\projects\\code\\inventario\\back\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47C02AB-BC7A-420C-BAB8-424D81AA5A63}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11178342-EB0D-4069-A677-863D8AE70C1F}|Persistence\\Persistence.csproj|d:\\projects\\code\\inventario\\back\\persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11178342-EB0D-4069-A677-863D8AE70C1F}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11178342-EB0D-4069-A677-863D8AE70C1F}|Persistence\\Persistence.csproj|d:\\projects\\code\\inventario\\back\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11178342-EB0D-4069-A677-863D8AE70C1F}|Persistence\\Persistence.csproj|solutionrelative:persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B920916-8112-4F6E-8CBE-B001D4D40628}|Infrastructure.Services\\Infrastructure.Services.csproj|d:\\projects\\code\\inventario\\back\\infrastructure.services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B920916-8112-4F6E-8CBE-B001D4D40628}|Infrastructure.Services\\Infrastructure.Services.csproj|solutionrelative:infrastructure.services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A971888-243A-47B1-A3C8-C0A745BEFDF7}|Application.Interfaces\\Application.Interfaces.csproj|d:\\projects\\code\\inventario\\back\\application.interfaces\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A971888-243A-47B1-A3C8-C0A745BEFDF7}|Application.Interfaces\\Application.Interfaces.csproj|solutionrelative:application.interfaces\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81082F83-2879-4145-A170-C97833365880}|Repositories\\Repositories.csproj|d:\\projects\\code\\inventario\\back\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +27,12 @@
       "RelativeMoniker": "D:0:0:{81082F83-2879-4145-A170-C97833365880}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C47C02AB-BC7A-420C-BAB8-424D81AA5A63}|Exceptions\\Exceptions.csproj|d:\\projects\\code\\inventario\\back\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47C02AB-BC7A-420C-BAB8-424D81AA5A63}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B920916-8112-4F6E-8CBE-B001D4D40628}|Infrastructure.Services\\Infrastructure.Services.csproj|d:\\projects\\code\\inventario\\back\\infrastructure.services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B920916-8112-4F6E-8CBE-B001D4D40628}|Infrastructure.Services\\Infrastructure.Services.csproj|solutionrelative:infrastructure.services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A971888-243A-47B1-A3C8-C0A745BEFDF7}|Application.Interfaces\\Application.Interfaces.csproj|d:\\projects\\code\\inventario\\back\\application.interfaces\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A971888-243A-47B1-A3C8-C0A745BEFDF7}|Application.Interfaces\\Application.Interfaces.csproj|solutionrelative:application.interfaces\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,19 +47,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\back\\Program.cs",
+              "RelativeDocumentMoniker": "back\\Program.cs",
+              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\back\\Program.cs",
+              "RelativeToolTip": "back\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:21:00.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persistence.csproj",
+              "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\Persistence\\Persistence.csproj",
+              "RelativeDocumentMoniker": "Persistence\\Persistence.csproj",
+              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\Persistence\\Persistence.csproj",
+              "RelativeToolTip": "Persistence\\Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-16T23:25:54.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\Persistence\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Persistence\\AppDbContext.cs",
               "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\Persistence\\AppDbContext.cs",
               "RelativeToolTip": "Persistence\\AppDbContext.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowB0AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T22:54:13.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T22:54:13.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "DatabaseService.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\Infrastructure.Services\\DatabaseService.cs",
               "RelativeDocumentMoniker": "Infrastructure.Services\\DatabaseService.cs",
@@ -59,12 +92,11 @@
               "RelativeToolTip": "Infrastructure.Services\\DatabaseService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T22:54:06.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T22:54:06.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "IDatabaseService.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\Application.Interfaces\\IDatabaseService.cs",
               "RelativeDocumentMoniker": "Application.Interfaces\\IDatabaseService.cs",
@@ -72,25 +104,23 @@
               "RelativeToolTip": "Application.Interfaces\\IDatabaseService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T22:54:00.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T22:54:00.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ItemRepository.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\Repositories\\ItemRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ItemRepository.cs",
               "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\Repositories\\ItemRepository.cs",
               "RelativeToolTip": "Repositories\\ItemRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T22:53:48.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T22:53:48.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IItemRepository.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\Repositories\\IItemRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IItemRepository.cs",
@@ -98,12 +128,11 @@
               "RelativeToolTip": "Repositories\\IItemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T22:53:46.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T22:53:46.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "AppException.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\Exceptions\\AppException.cs",
               "RelativeDocumentMoniker": "Exceptions\\AppException.cs",

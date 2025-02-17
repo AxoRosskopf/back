@@ -9,3 +9,4 @@ D:\Projects\Code\Inventario\back\Exceptions\obj\Debug\net8.0\Exceptions.dll
 D:\Projects\Code\Inventario\back\Exceptions\obj\Debug\net8.0\refint\Exceptions.dll
 D:\Projects\Code\Inventario\back\Exceptions\obj\Debug\net8.0\Exceptions.pdb
 D:\Projects\Code\Inventario\back\Exceptions\obj\Debug\net8.0\ref\Exceptions.dll
+D:\Projects\Code\Inventario\back\Exceptions\obj\Debug\net8.0\Exceptions.sourcelink.json
