@@ -50,9 +50,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\Code\\Inventario\\back\\back\\Program.cs",
               "RelativeDocumentMoniker": "back\\Program.cs",
-              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\back\\Program.cs*",
-              "RelativeToolTip": "back\\Program.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Projects\\Code\\Inventario\\back\\back\\Program.cs",
+              "RelativeToolTip": "back\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T02:21:00.014Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "Persistence\\Persistence.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-16T23:25:54.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T23:25:54.54Z"
             },
             {
               "$type": "Document",
@@ -140,8 +139,7 @@
               "RelativeToolTip": "Exceptions\\AppException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T22:53:37.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T22:53:37.32Z"
             }
           ]
         }
