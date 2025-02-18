@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-
 jobs:
   Build_and_Deploy:
     runs-on: ubuntu-latest
@@ -50,7 +49,7 @@ jobs:
             # Git operations
             git config --global init.defaultBranch main
             if [ ! -d .git ]; then
-              git init .
+              git init . 
               git remote add origin https://github.com/AxoRosskopf/back.git
             fi
             
@@ -61,5 +60,15 @@ jobs:
             # Ensure Docker daemon is running
             sudo systemctl restart docker
 
-            # Build and run Docker containers
+            # Build Docker containers and show logs
             sudo docker-compose up -d --build
+            echo "Docker Compose logs:"
+            sudo docker-compose logs
+
+            # Check Nginx logs (if applicable)
+            if [ -f /var/log/nginx/error.log ]; then
+              echo "Nginx error logs:"
+              sudo tail -n 20 /var/log/nginx/error.log
+            else
+              echo "No Nginx logs found."
+            fi
