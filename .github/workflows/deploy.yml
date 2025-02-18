@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+
 jobs:
   Build_and_Deploy:
     runs-on: ubuntu-latest
@@ -42,17 +43,26 @@ jobs:
               sudo chmod +x /usr/local/bin/docker-compose
             fi
 
-            # Create and navigate to project directory
+            # Generate SSL certificate and key if they do not exist
+            if [ ! -f /etc/nginx/ssl/nginx.crt ]; then
+              echo "Generating SSL certificate and key..."
+              sudo mkdir -p /etc/nginx/ssl
+              sudo openssl req -x509 -nodes -days 3650 -newkey rsa:2048 \
+                -subj "/CN=inventory-api.rozkopf.com" \
+                -keyout /etc/nginx/ssl/nginx.key \
+                -out /etc/nginx/ssl/nginx.crt
+            fi
+
+            # Create and navigate to the project directory
             mkdir -p /home/ec2-user/back
             cd /home/ec2-user/back
 
             # Git operations
             git config --global init.defaultBranch main
             if [ ! -d .git ]; then
-              git init . 
+              git init .
               git remote add origin https://github.com/AxoRosskopf/back.git
             fi
-            
             git fetch
             git reset --hard origin/main
             git clean -fd
@@ -64,11 +74,3 @@ jobs:
             sudo docker-compose up -d --build
             echo "Docker Compose logs:"
             sudo docker-compose logs
-
-            # Check Nginx logs (if applicable)
-            if [ -f /var/log/nginx/error.log ]; then
-              echo "Nginx error logs:"
-              sudo tail -n 20 /var/log/nginx/error.log
-            else
-              echo "No Nginx logs found."
-            fi
