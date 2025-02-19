@@ -36,8 +36,10 @@ services:
       - "80:80"
       - "443:443"
     volumes:
-     - /etc/nginx/ssl:/etc/nginx/ssl:ro,z
-     - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+      - /etc/letsencrypt/live/inventory-api.rozkopf.com:/etc/letsencrypt/live/inventory-api.rozkopf.com:ro
+      - /etc/letsencrypt/archive:/etc/letsencrypt/archive:ro
+      - /etc/letsencrypt/privkey.pem:/etc/letsencrypt/privkey.pem:ro
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
 
 volumes:
   postgres_data:
